@@ -298,7 +298,7 @@ Marki,Chap,Pickaxe,,1,1:37,3,96,0
 Sak0ner,Zeek,Rifle,,0,1:27,3,97,0
 Jarl,Sinooh,Rifle,,0,0:56,3,98,0
 Zyppaan,Teeqzy,Shotgun,,0,0:47,3,99,0
-Smeef,DQ,,,,,3,100,0
+Smeef,,DQ,,,,3,100,0
 Aimhero_o,,,,9,,4,1,4
 Histtory,Aimhero_o,,,9,23:27,4,2,6
 Jarkos,Aimhero_o,,,9,23:21,4,3,4
@@ -397,8 +397,8 @@ Sk1x,Jarl,Pistol,130,1,2:42,4,95,0
 Lil Jay,,Splode,,1,2:26,4,96,0
 Faah,Villex,Trap,,1,2:04,4,97,0
 Viallinen,Fwexy,Rifle,,0,0:57,4,98,0
-Aspect,,,,,,4,100,0
-Tommo,,,,,,4,100,0
+Aspect,,DQ,,,,4,100,0
+Tommo,,DQ,,,,4,100,0
 Skram,,,,9,,5,1,3
 Blaxou,,Storm,,9,23:40,5,2,4
 TheVic,Blaxou,,,9,23:15,5,3,3
@@ -497,8 +497,8 @@ Mushway,Maxalibur,Shotgun,,1,2:57,5,95,0
 Tommo,Aydan,Shotgun,,1,2:54,5,96,0
 Milan,Aydan,Rifle,,1,2:30,5,97,0
 Rizart,Khuna,Smg,,0,0:56,5,98,0
-Boyer,,,,,,5,100,0
-Cloud,,,,,,5,100,0
+Boyer,,DQ,,,,5,100,0
+Cloud,,DQ,,,,5,100,0
 TheVic,,,,9,,6,1,2
 Ares,TheVic,Shotgun,,9,23:07,6,2,6
 Magin,Ares,Shotgun,,8,22:25,6,3,3
