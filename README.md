@@ -28,7 +28,7 @@ LeStream is the top performing team with all of their 4 players in Top 20 and an
 
 As we can see, the format heavily rewards good placement in each match. High average placement is a good indicator of how well you'll do in this format. We visualize this in the following graph, and compare it to the results of the Secret Skirmish.
 
-![Graph](/blob/master/media/graph1.png)
+![Graph](ESLAnalysis/media/graph1.png)
 
 We can see a strong correlation between average placement and rank, while for the Secret Skirmish, it's less linear. The ESL format definitely does a good job in properly rewarding placement. 
 
