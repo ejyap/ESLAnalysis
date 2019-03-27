@@ -85,13 +85,13 @@ I was not able to get the cause of deaths for 35 deaths. It simply wasn't possib
 
 Next, I created a graph visualizing the amount of players alive as each match progressed.
 
-![Graph](https://imgur.com/oLXVzj1)
+![Graph](https://github.com/ejyap/ESLAnalysis/blob/master/media/graph3.png)
 
 Deadliest zone was Zone #1 with 130 deaths. No surprise there. Not far behind, the second deadliest zone was Zone #6 (lasts 90 seconds) with 122 deaths.
 
 I was actually more interested in how the pacing of ESL matches compared to the pacing of the Secret Skirmish games. I graphed the first 3 games of both tournaments.
 
-![Graph](https://github.com/ejyap/ESLAnalysis/blob/master/media/graph3.png) 
+![Graph](https://github.com/ejyap/ESLAnalysis/blob/master/media/graph4.png) 
 
 Not enough of a difference to reach any conclusion, despite ESL's emphasis on placement. Perhaps, the Storm Surge does work in applying an upper bound of players alive each zone, leading to a very predictable quantity of players each zone.
 
