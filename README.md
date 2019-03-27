@@ -28,7 +28,7 @@ LeStream is the top performing team with all of their 4 players in Top 20 and an
 
 As we can see, the format heavily rewards good placement in each match. High average placement is a good indicator of how well you'll do in this format. We visualize this in the following graph, and compare it to the results of the Secret Skirmish.
 
-[Graph](https://imgur.com/mj8ZmBy)
+![Graph](/blob/master/media/graph1.png)
 
 We can see a strong correlation between average placement and rank, while for the Secret Skirmish, it's less linear. The ESL format definitely does a good job in properly rewarding placement. 
 
@@ -50,7 +50,7 @@ So, while the ESL format rewards avg. placement and consistency, the Secret Skir
 
 We can try to infer the playstyles of the top 20 Players by looking at how their kills are distributed across early, mid, and late-game. In the following graph, blue dots represent kills and red dots represent deaths. Each box represents the distribution of kills for each player.
 
-[Graph](https://imgur.com/CXxFkLt)
+![Graph](https://imgur.com/CXxFkLt)
 
 For reference, I consider early game to end around the 13th minute mark (2nd zone ends) and end game to start around the 17:00 minute mark (5th zone starts). 
 
@@ -68,7 +68,7 @@ It's also important to note that not a single Top 20 player got there because th
 
 I was not able to get the cause of deaths for 35 deaths. It simply wasn't possible. The deaths I did record should still provide an accurate representation of the weapon distribution. 
 
-[Weapon Distribution](https://imgur.com/iGAgkY1)
+![Weapon Distribution](https://imgur.com/iGAgkY1)
 
 ### Fun Facts
 
@@ -85,13 +85,13 @@ I was not able to get the cause of deaths for 35 deaths. It simply wasn't possib
 
 Next, I created a graph visualizing the amount of players alive as each match progressed.
 
-[Graph](https://imgur.com/oLXVzj1)
+![Graph](https://imgur.com/oLXVzj1)
 
 Deadliest zone was Zone #1 with 130 deaths. No surprise there. Not far behind, the second deadliest zone was Zone #6 (lasts 90 seconds) with 122 deaths.
 
 I was actually more interested in how the pacing of ESL matches compared to the pacing of the Secret Skirmish games. I graphed the first 3 games of both tournaments.
 
-[Graph](https://imgur.com/ze85i8T) 
+![Graph](https://imgur.com/ze85i8T) 
 
 Not enough of a difference to reach any conclusion, despite ESL's emphasis on placement. Perhaps, the Storm Surge does work in applying an upper bound of players alive each zone, leading to a very predictable quantity of players each zone.
 
